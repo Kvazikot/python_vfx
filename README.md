@@ -7,7 +7,7 @@ Life_gpu make all calculations on of CA a GPU as you already figure out from the
 In video_segmentation.py i try to simulate some holographic effect.
 I assume that scene is performed on a spaceship far from the Earth
 
-#Installation guide
+# Installation guide
 Python 3.7 <br/>
 pip install tensorflow==1.14 <br/>
 pip install matplotlib <br/>
